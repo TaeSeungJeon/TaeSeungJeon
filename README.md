@@ -1,5 +1,5 @@
-**My IDE  
-https://img.icons8.com/?size=48&id=61466&format=png
+** My IDE  
+<img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij" width="40" height="40"/>
 ---
 
 노션 복습 및 서치 자료 정리  
