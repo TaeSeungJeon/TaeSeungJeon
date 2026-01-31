@@ -1,5 +1,5 @@
 My IDE  
-<img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij" width="55" height="55"/>
 ---
 
 <img src="https://img.icons8.com/?size=64&id=wue74HqaylSJ&format=png"/>
