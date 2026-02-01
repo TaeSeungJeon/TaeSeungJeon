@@ -1,4 +1,4 @@
-## My IDE  
+---
 <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij" width="55" height="55"/>
 
 
